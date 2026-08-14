@@ -111,5 +111,5 @@ Final_task_of_the_white-belt/
     ```
 
 # Автор
-## Константин Гайдуков
+## SGKonstantin
 
